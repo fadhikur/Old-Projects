@@ -1,4 +1,4 @@
-Under our contract with WSU's Biomedical Lab, we are not allowed to grant direct access to the git repository (in which 
+Under our contract with the Biomedical Lab, we are not allowed to grant direct access to the git repository (in which 
 the app was developed), or recomitting into our individual git repositories.
 
 https://drive.google.com/file/d/1XPy1AGyWZw5L0V1fGAQhS0bjFN5VTF5T/view?usp=sharing
